@@ -1,0 +1,19 @@
+BODY{
+    text-align:center;
+    font: size 22px;
+    font-family: 'Times New Roman';
+    background-position: center;
+    background-size: contain;
+}
+h3{
+color: blue;
+}
+h1{
+color: aliceblue;
+}
+h2{
+color: aqua;
+}
+stanza{
+color: blueviolet;
+}
